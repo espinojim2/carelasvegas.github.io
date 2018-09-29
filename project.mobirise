@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "carelasvegas",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 92,
     "versionPublish": "4.6.1",
@@ -4251,7 +4251,7 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
