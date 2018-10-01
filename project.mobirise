@@ -1587,7 +1587,7 @@
             "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#3366ff"
+            "bgColor": "#ffffff"
           },
           "_customHTML": "<iframe src=\"./jse_gallery\" width=\"100%\" height=\"500px\" style=\"border:none\" >\n</iframe>",
           "_customCSS": "p{color:white;}",
